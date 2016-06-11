@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="android_device_oppo_find7op" path="device/oppo/find7op" remote="omnirom" revision="android-4.4" />
+  <project name="android_hardware_qcom_display-caf-bfam" path="hardware/qcom/display-caf-bfam" remote="omnirom" revision="android-4.4" />
+  <project name="android_hardware_qcom_media-caf-bfam" path="hardware/qcom/media-caf-bfam" remote="omnirom" revision="android-4.4" />
+  <project name="android_hardware_qcom_audio-caf-bfam" path="hardware/qcom/audio-caf-bfam" remote="omnirom" revision="android-4.4" />
+  <project name="android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="omnirom" revision="android-4.4" />
+  <project name="android_kernel_oppo_msm8974" path="kernel/oppo/msm8974" remote="omnirom" revision="android-4.4" />
+  <project name="DonkeyCoyote/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="android-4.4" />
+</manifest>
