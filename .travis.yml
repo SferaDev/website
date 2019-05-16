@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "stable"
+cache: yarn
+script:
+  - yarn test
+  - yarn build
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  local_dir: build
+  on:
+    branch: master
