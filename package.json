@@ -8,7 +8,7 @@
     "@types/react": "16.8.19",
     "@types/react-dom": "16.8.4",
     "eslint": "^5.16.0",
-    "eslint-config-prettier": "^4.3.0",
+    "eslint-config-prettier": "^5.0.0",
     "jquery": "^3.4.1",
     "prettier": "^1.17.1",
     "prop-types": "^15.7.2",
