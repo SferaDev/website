@@ -81,9 +81,27 @@
   "portfolio": {
     "projects": [
       {
+        "title": "DHIS2: MDSync (HISP SA and WHO)",
+        "category": "DHIS2 application for synchronizing data and metadata.",
+        "image": "https://github.com/EyeSeeTea/metadata-synchronization/blob/development-malaria/icon.png?raw=true",
+        "url": "https://github.com/EyeSeeTea/metadata-synchronization"
+      },
+      {
+        "title": "DHIS2: Bulk-Load (WHO)",
+        "category": "DHIS2 application to build custom excel files that can be imported into DHIS2.",
+        "image": "https://github.com/EyeSeeTea/Bulk-Load/blob/development/public/img/icon.png?raw=true",
+        "url": "https://github.com/EyeSeeTea/Bulk-Load"
+      },
+      {
+        "title": "DHIS2: Metadata git repository builder",
+        "category": "Command line utility to mirror an instance's metadata into a git repository.",
+        "image": "https://avatars1.githubusercontent.com/u/2181866?s=460&v=4",
+        "url": "https://github.com/SferaDev/dhis-meta-repo"
+      },
+      {
         "title": "DHIS2: Metadata Management",
         "category": "DHIS2 application that allows visualization over an instance's metadata.",
-        "image": "https://avatars1.githubusercontent.com/u/2181866?s=460&v=4",
+        "image": "https://github.com/SferaDev/Metadata-Management/blob/development/icon.png?raw=true",
         "url": "https://www.github.com/SferaDev/Metadata-Management"
       }
     ]
