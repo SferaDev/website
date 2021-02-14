@@ -1,28 +1,28 @@
 {
-  "name": "sferadev",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@types/jest": "26.0.13",
-    "@types/node": "14.10.0",
-    "@types/react": "16.9.49",
-    "@types/react-dom": "16.9.8",
-    "eslint": "^7.8.1",
-    "eslint-config-prettier": "^6.11.0",
-    "jquery": "^3.5.1",
-    "prettier": "^2.1.1",
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-ga": "^3.1.2",
-    "react-scripts": "3.4.3",
-    "typescript": "4.0.2"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "prettify": "prettier \"{src,config}/**/*.{js,jsx,ts,tsx,json,css}\" --write"
-  }
+    "name": "sferadev",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@types/jest": "26.0.20",
+        "@types/node": "14.14.28",
+        "@types/react": "17.0.2",
+        "@types/react-dom": "17.0.1",
+        "eslint": "7.20.0",
+        "eslint-config-prettier": "7.2.0",
+        "jquery": "^3.5.1",
+        "prettier": "2.2.1",
+        "prop-types": "^15.7.2",
+        "react": "17.0.1",
+        "react-dom": "17.0.1",
+        "react-ga": "3.3.0",
+        "react-scripts": "4.0.2",
+        "typescript": "4.1.5"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "prettify": "prettier \"./**/*.{js,jsx,json,css,ts,tsx}\" --write"
+    }
 }

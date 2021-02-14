@@ -1,109 +1,109 @@
 {
-  "main": {
-    "name": "Alexis Rico",
-    "description": "Designing code for both the private sector and open source initiatives",
-    "image": "images/profile.png",
-    "bio": "Work experience as a developer on Node.js backend servers, frontend ReactJS web applications, mobile app development for Android and maintainer of complex distributed code repositories. Currently working on full-stack development for DHIS2 custom applications.",
-    "email": "youremailhere@gmail.com",
-    "website": "https://www.sferadev.com",
-    "resumeDownload": "/Alexis%20Rico%20Resume.pdf",
-    "social": [
-      {
-        "name": "Twitter",
-        "url": "https://twitter.com/SferaDev",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "LinkedIn",
-        "url": "https://www.linkedin.com/in/sferadev/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "GitHub",
-        "url": "https://github.com/SferaDev",
-        "className": "fa fa-github"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "",
-    "education": [
-      {
-        "school": "Universitat Politècnica de Catalunya",
-        "degree": "Bachelor's degree, Software Engineering",
-        "graduated": "2015 - 2019",
-        "description": ""
-      }
-    ],
-    "work": [
-      {
-        "company": "EyeSeeTea LTD",
-        "title": "Software Engineer",
-        "years": "Feb 2019 - Present",
-        "description": ""
-      },
-      {
-        "company": "Universitat Politècnica de Catalunya",
-        "title": "Intern Software Engineer",
-        "years": "Feb 2018 - Jun 2019",
-        "description": ""
-      },
-      {
-        "company": "Paranoid Android - AOSPA",
-        "title": "AOSP Developer",
-        "years": "Nov 2013 - Oct 2017",
-        "description": ""
-      }
-    ],
-    "skills": [
-      {
-        "name": "JavaScript",
-        "level": "80%"
-      },
-      {
-        "name": "Node.js",
-        "level": "70%"
-      },
-      {
-        "name": "Git",
-        "level": "85%"
-      },
-      {
-        "name": "ReactJS",
-        "level": "65%"
-      },
-      {
-        "name": "DHIS2",
-        "level": "75%"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "DHIS2: MDSync (HISP SA and WHO)",
-        "category": "DHIS2 application for synchronizing data and metadata.",
-        "image": "https://github.com/EyeSeeTea/metadata-synchronization/blob/development-malaria/icon.png?raw=true",
-        "url": "https://github.com/EyeSeeTea/metadata-synchronization"
-      },
-      {
-        "title": "DHIS2: Bulk-Load (WHO)",
-        "category": "DHIS2 application to build custom excel files that can be imported into DHIS2.",
-        "image": "https://github.com/EyeSeeTea/Bulk-Load/blob/development/public/img/icon.png?raw=true",
-        "url": "https://github.com/EyeSeeTea/Bulk-Load"
-      },
-      {
-        "title": "DHIS2: Metadata git repository builder",
-        "category": "Command line utility to mirror an instance's metadata into a git repository.",
-        "image": "https://avatars1.githubusercontent.com/u/2181866?s=460&v=4",
-        "url": "https://github.com/SferaDev/dhis-meta-repo"
-      },
-      {
-        "title": "DHIS2: Metadata Management",
-        "category": "DHIS2 application that allows visualization over an instance's metadata.",
-        "image": "https://github.com/SferaDev/Metadata-Management/blob/development/icon.png?raw=true",
-        "url": "https://www.github.com/SferaDev/Metadata-Management"
-      }
-    ]
-  }
+    "main": {
+        "name": "Alexis Rico",
+        "description": "Designing code for both the private sector and open source initiatives",
+        "image": "images/profile.png",
+        "bio": "Work experience as a developer on Node.js backend servers, frontend ReactJS web applications, mobile app development for Android and maintainer of complex distributed code repositories. Currently working on full-stack development for DHIS2 custom applications.",
+        "email": "youremailhere@gmail.com",
+        "website": "https://www.sferadev.com",
+        "resumeDownload": "/Alexis%20Rico%20Resume.pdf",
+        "social": [
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/SferaDev",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/sferadev/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/SferaDev",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "",
+        "education": [
+            {
+                "school": "Universitat Politècnica de Catalunya",
+                "degree": "Bachelor's degree, Software Engineering",
+                "graduated": "2015 - 2019",
+                "description": ""
+            }
+        ],
+        "work": [
+            {
+                "company": "EyeSeeTea LTD",
+                "title": "Software Engineer",
+                "years": "Feb 2019 - Present",
+                "description": ""
+            },
+            {
+                "company": "Universitat Politècnica de Catalunya",
+                "title": "Intern Software Engineer",
+                "years": "Feb 2018 - Jun 2019",
+                "description": ""
+            },
+            {
+                "company": "Paranoid Android - AOSPA",
+                "title": "AOSP Developer",
+                "years": "Nov 2013 - Oct 2017",
+                "description": ""
+            }
+        ],
+        "skills": [
+            {
+                "name": "JavaScript",
+                "level": "80%"
+            },
+            {
+                "name": "Node.js",
+                "level": "70%"
+            },
+            {
+                "name": "Git",
+                "level": "85%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "65%"
+            },
+            {
+                "name": "DHIS2",
+                "level": "75%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "DHIS2: MDSync (HISP SA and WHO)",
+                "category": "DHIS2 application for synchronizing data and metadata.",
+                "image": "https://github.com/EyeSeeTea/metadata-synchronization/blob/development-malaria/icon.png?raw=true",
+                "url": "https://github.com/EyeSeeTea/metadata-synchronization"
+            },
+            {
+                "title": "DHIS2: Bulk-Load (WHO)",
+                "category": "DHIS2 application to build custom excel files that can be imported into DHIS2.",
+                "image": "https://github.com/EyeSeeTea/Bulk-Load/blob/development/public/img/icon.png?raw=true",
+                "url": "https://github.com/EyeSeeTea/Bulk-Load"
+            },
+            {
+                "title": "DHIS2: Metadata git repository builder",
+                "category": "Command line utility to mirror an instance's metadata into a git repository.",
+                "image": "https://avatars1.githubusercontent.com/u/2181866?s=460&v=4",
+                "url": "https://github.com/SferaDev/dhis-meta-repo"
+            },
+            {
+                "title": "DHIS2: Metadata Management",
+                "category": "DHIS2 application that allows visualization over an instance's metadata.",
+                "image": "https://github.com/SferaDev/Metadata-Management/blob/development/icon.png?raw=true",
+                "url": "https://www.github.com/SferaDev/Metadata-Management"
+            }
+        ]
+    }
 }

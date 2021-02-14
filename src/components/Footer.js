@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         if (!this.props.data) return <section id="footer" />;
 
-        const networks = this.props.data.social.map(function(network) {
+        const networks = this.props.data.social.map(function (network) {
             return (
                 <li key={network.name}>
                     <a href={network.url}>
@@ -21,7 +21,7 @@ class Footer extends Component {
                         <ul className="social-links">{networks}</ul>
 
                         <ul className="copyright">
-                            <li>&copy; Copyright 2019 Alexis Rico</li>
+                            <li>&copy; Copyright 2021 Alexis Rico</li>
                         </ul>
                     </div>
                     <div id="go-top">

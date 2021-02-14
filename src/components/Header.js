@@ -6,7 +6,7 @@ class Header extends Component {
 
         const { name, description, social } = this.props.data;
 
-        const networks = social.map(function(network) {
+        const networks = social.map(function (network) {
             return (
                 <li key={network.name}>
                     <a href={network.url}>

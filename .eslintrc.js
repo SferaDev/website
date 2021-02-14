@@ -1,8 +1,5 @@
 /** @format */
 
 module.exports = {
-    extends: [
-        'react-app',
-        'prettier',
-    ],
+    extends: ["react-app", "prettier"],
 };

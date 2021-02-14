@@ -4,7 +4,7 @@ class Portfolio extends Component {
     render() {
         if (!this.props.data) return <section id="portfolio" />;
 
-        const projects = this.props.data.projects.map(function(project) {
+        const projects = this.props.data.projects.map(function (project) {
             return (
                 <div key={project.title} className="columns portfolio-item">
                     <div className="item-wrap">

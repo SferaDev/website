@@ -4,14 +4,9 @@ class Resume extends Component {
     render() {
         if (!this.props.data) return <section id="footer" />;
 
-        const {
-            work: workData,
-            skillmessage,
-            education: educationData,
-            skills: skillsData,
-        } = this.props.data;
+        const { work: workData, skillmessage, education: educationData, skills: skillsData } = this.props.data;
 
-        const education = educationData.map(function(education) {
+        const education = educationData.map(function (education) {
             return (
                 <div key={education.school}>
                     <h3>{education.school}</h3>
@@ -24,7 +19,7 @@ class Resume extends Component {
             );
         });
 
-        const work = workData.map(function(work) {
+        const work = workData.map(function (work) {
             return (
                 <div key={work.company}>
                     <h3>{work.company}</h3>
@@ -37,7 +32,7 @@ class Resume extends Component {
             );
         });
 
-        const skills = skillsData.map(function(skills) {
+        const skills = skillsData.map(function (skills) {
             var className = "bar-expand " + skills.name.toLowerCase();
             return (
                 <li key={skills.name}>
