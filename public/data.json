@@ -1,12 +1,12 @@
 {
-    "main": {
+    "overview": {
         "name": "Alexis Rico",
         "description": "Designing code for both the private sector and open source initiatives",
         "image": "images/profile.png",
         "bio": "Work experience as a developer on Node.js backend servers, frontend ReactJS web applications, mobile app development for Android and maintainer of complex distributed code repositories. Currently working on full-stack development for DHIS2 custom applications.",
         "email": "youremailhere@gmail.com",
         "website": "https://www.sferadev.com",
-        "resumeDownload": "/Alexis%20Rico%20Resume.pdf",
+        "resumeUrl": "/Alexis%20Rico%20Resume.pdf",
         "social": [
             {
                 "name": "Twitter",
@@ -25,13 +25,12 @@
             }
         ]
     },
-    "resume": {
-        "skillmessage": "",
+    "experience": {
         "education": [
             {
                 "school": "Universitat Politècnica de Catalunya",
-                "degree": "Bachelor's degree, Software Engineering",
-                "graduated": "2015 - 2019",
+                "title": "Bachelor's degree, Software Engineering",
+                "years": "2015 - 2019",
                 "description": ""
             }
         ],
@@ -57,24 +56,24 @@
         ],
         "skills": [
             {
-                "name": "JavaScript",
-                "level": "80%"
+                "name": "TypeScript",
+                "level": 95
             },
             {
                 "name": "Node.js",
-                "level": "70%"
-            },
-            {
-                "name": "Git",
-                "level": "85%"
+                "level": 75
             },
             {
                 "name": "ReactJS",
-                "level": "65%"
+                "level": 90
             },
             {
                 "name": "DHIS2",
-                "level": "75%"
+                "level": 85
+            },
+            {
+                "name": "Git",
+                "level": 90
             }
         ]
     },
