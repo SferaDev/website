@@ -1,5 +1,5 @@
 import React from "react";
-import { PageProps } from "./App";
+import { PageProps } from ".";
 
 export const Experience: React.FC<PageProps> = React.memo(props => {
     const { work, education, skills } = props.resume.experience;

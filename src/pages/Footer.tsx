@@ -1,5 +1,5 @@
 import React from "react";
-import { PageProps } from "./App";
+import { PageProps } from ".";
 
 export const Footer: React.FC<PageProps> = React.memo(props => {
     const { social } = props.resume.overview;

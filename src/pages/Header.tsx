@@ -1,5 +1,5 @@
 import React from "react";
-import { PageProps } from "./App";
+import { PageProps } from ".";
 
 export const Header: React.FC<PageProps> = React.memo(props => {
     const { name, description, social } = props.resume.overview;

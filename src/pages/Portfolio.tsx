@@ -1,5 +1,5 @@
 import React from "react";
-import { PageProps } from "./App";
+import { PageProps } from ".";
 
 export const Portfolio: React.FC<PageProps> = React.memo(props => {
     const { projects } = props.resume.portfolio;
