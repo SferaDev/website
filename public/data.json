@@ -37,13 +37,13 @@
         "work": [
             {
                 "company": "EyeSeeTea LTD",
-                "title": "Software Engineer",
+                "title": "Senior Software Engineer",
                 "years": "Feb 2019 - Present",
                 "description": ""
             },
             {
                 "company": "Universitat Politècnica de Catalunya",
-                "title": "Intern Software Engineer",
+                "title": "Software Engineer",
                 "years": "Feb 2018 - Jun 2019",
                 "description": ""
             },
@@ -82,7 +82,7 @@
             {
                 "title": "DHIS2: MDSync (HISP SA and WHO)",
                 "category": "DHIS2 application for synchronizing data and metadata.",
-                "image": "https://github.com/EyeSeeTea/metadata-synchronization/blob/development-malaria/icon.png?raw=true",
+                "image": "https://github.com/EyeSeeTea/metadata-synchronization/blob/development/icon.png?raw=true",
                 "url": "https://github.com/EyeSeeTea/metadata-synchronization"
             },
             {
