@@ -8846,10 +8846,10 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-purify-ts-extra-codec@0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/purify-ts-extra-codec/-/purify-ts-extra-codec-0.4.0.tgz#4c54f8b7f5332b67ed3c3a2ec61da3bb3c608215"
-  integrity sha512-vRfMBJ67uSQ39thnhlpOW4pouhwzjbYRtXbZaDmk3ZacohTmquBRd4J0W6M1zd0X3wDLjm6P+GCqmMOoffQD+g==
+purify-ts-extra-codec@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/purify-ts-extra-codec/-/purify-ts-extra-codec-0.5.0.tgz#31dc6502bbf7eb466b537cf72263afedd4f3fa7d"
+  integrity sha512-6aTCJA2wpDyb4DAisY5AhKdSXDTby5y4DX+5Q4mqmWbxvyaNxSFC8U4OhiESpmWZ55e/1ndBhtJ+p1zCGrGrFg==
   dependencies:
     date-fns "^2.14.0"
 
