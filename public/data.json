@@ -6,7 +6,6 @@
         "bio": "Work experience as a developer on Node.js backend servers, frontend ReactJS web applications, mobile app development for Android and maintainer of complex distributed code repositories. Currently working on full-stack development for DHIS2 custom applications.",
         "email": "youremailhere@gmail.com",
         "website": "https://www.sferadev.com",
-        "resumeUrl": "/Alexis%20Rico%20Resume.pdf",
         "social": [
             {
                 "name": "Twitter",
@@ -92,16 +91,16 @@
                 "url": "https://github.com/EyeSeeTea/Bulk-Load"
             },
             {
-                "title": "DHIS2: Metadata git repository builder",
-                "category": "Command line utility to mirror an instance's metadata into a git repository.",
-                "image": "https://avatars1.githubusercontent.com/u/2181866?s=460&v=4",
-                "url": "https://github.com/SferaDev/dhis-meta-repo"
+                "title": "DHIS2: Training App (WHO)",
+                "category": "Guided learning tool used to build and follow tutorials.",
+                "image": "https://raw.githubusercontent.com/EyeSeeTea/training-app/development/icon.png",
+                "url": "https://github.com/EyeSeeTea/training-app"
             },
             {
-                "title": "DHIS2: Metadata Management",
-                "category": "DHIS2 application that allows visualization over an instance's metadata.",
-                "image": "https://github.com/SferaDev/Metadata-Management/blob/development/icon.png?raw=true",
-                "url": "https://www.github.com/SferaDev/Metadata-Management"
+                "title": "Click-up time reporting tool (Toggl UI)",
+                "category": "A next.js webapp to report time to clickup with a toggl-like interface.",
+                "image": "https://avatars1.githubusercontent.com/u/2181866?s=460&v=4",
+                "url": "https://github.com/SferaDev/clickup-time-tracking"
             }
         ]
     }

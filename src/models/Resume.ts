@@ -7,7 +7,7 @@ export const OverviewModel = Schema.object({
     bio: Schema.string,
     email: Schema.email,
     website: Schema.url,
-    resumeUrl: Schema.string,
+    resumeUrl: Schema.optional(Schema.string),
     social: Schema.array(
         Schema.object({
             name: Schema.string,

@@ -16,16 +16,18 @@ export const About: React.FC<PageProps> = React.memo(props => {
                     <Title>About Me</Title>
 
                     <Bio>{bio}</Bio>
-                    <div className="row">
-                        <div className="columns download">
-                            <p>
-                                <DownloadButton href={resumeUrl}>
-                                    <i className="fa fa-download" />
-                                    Download Resume
-                                </DownloadButton>
-                            </p>
+                    {resumeUrl ? (
+                        <div className="row">
+                            <div className="columns download">
+                                <p>
+                                    <DownloadButton href={resumeUrl}>
+                                        <i className="fa fa-download" />
+                                        Download Resume
+                                    </DownloadButton>
+                                </p>
+                            </div>
                         </div>
-                    </div>
+                    ) : null}
                 </div>
             </div>
         </section>
