@@ -44,6 +44,12 @@ header {
     overflow: hidden;
 }
 
+#nav {
+    background-color: #8d6e63;
+    -webkit-animation: random 100s infinite;
+    animation: random 100s infinite;
+}
+
 @keyframes random {
     15% {
         background-color: #009688;
