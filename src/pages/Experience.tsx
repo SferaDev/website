@@ -1,16 +1,17 @@
 import React from "react";
+import styled from "styled-components";
 import { PageProps } from ".";
 
 export const Experience: React.FC<PageProps> = React.memo(props => {
-    const { work, education, skills } = props.resume.experience;
+    const { work, education } = props.resume.experience;
 
     return (
         <section id="resume">
             <div className="row education">
                 <div className="three columns header-col">
-                    <h1>
+                    <Title>
                         <span>Education</span>
-                    </h1>
+                    </Title>
                 </div>
 
                 <div className="nine columns main-col">
@@ -33,9 +34,9 @@ export const Experience: React.FC<PageProps> = React.memo(props => {
 
             <div className="row work">
                 <div className="three columns header-col">
-                    <h1>
+                    <Title>
                         <span>Work</span>
-                    </h1>
+                    </Title>
                 </div>
 
                 <div className="nine columns main-col">
@@ -51,30 +52,10 @@ export const Experience: React.FC<PageProps> = React.memo(props => {
                     ))}
                 </div>
             </div>
-
-            <div className="row skill">
-                <div className="three columns header-col">
-                    <h1>
-                        <span>Skills</span>
-                    </h1>
-                </div>
-
-                <div className="nine columns main-col">
-                    <div className="bars">
-                        <ul className="skills">
-                            {skills.map(({ name, level }) => (
-                                <li key={name}>
-                                    <span
-                                        style={{ width: `${level}%` }}
-                                        className={`bar-expand ${name.toLowerCase()}`}
-                                    />
-                                    <em>{name}</em>
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
-                </div>
-            </div>
         </section>
     );
 });
+
+const Title = styled.h1`
+    text-align: center;
+`;
