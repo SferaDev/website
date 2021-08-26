@@ -564,6 +564,9 @@ ul#nav li.current a {
 
 .portfolio-item .item-wrap img {
     vertical-align: bottom;
+    background-color: white;
+    padding: 20px;
+    height: 220px;
 }
 
 .portfolio-item .portfolio-item-meta {
