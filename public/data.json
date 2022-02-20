@@ -35,21 +35,27 @@
         ],
         "work": [
             {
+                "company": "Xata",
+                "title": "Senior Software Engineer",
+                "years": "March 2022 - Present",
+                "description": ""
+            },
+            {
                 "company": "EyeSeeTea LTD",
                 "title": "Senior Software Engineer",
-                "years": "Feb 2019 - Present",
+                "years": "February 2019 - February 2022",
                 "description": ""
             },
             {
                 "company": "Universitat Politècnica de Catalunya",
                 "title": "Software Engineer",
-                "years": "Feb 2018 - Jun 2019",
+                "years": "February 2018 - June 2019",
                 "description": ""
             },
             {
                 "company": "Paranoid Android - AOSPA",
                 "title": "AOSP Developer",
-                "years": "Nov 2013 - Oct 2017",
+                "years": "November 2013 - October 2017",
                 "description": ""
             }
         ],
