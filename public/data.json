@@ -1,10 +1,10 @@
 {
     "overview": {
         "name": "Alexis Rico",
-        "description": "Designing code for both the private sector and open source initiatives",
+        "description": "Always building some TypeScript magic",
         "image": "images/profile.png",
-        "bio": "Work experience as a developer on Node.js backend servers, frontend ReactJS web applications, mobile app development for Android and maintainer of complex distributed code repositories. Currently working on full-stack development for DHIS2 custom applications.",
-        "email": "youremailhere@gmail.com",
+        "bio": "Work experience as Node.js backend developer, React web applications, Android AOSP developer and anything TypeScript related. Currently working on building an awesome database service for serverless.",
+        "email": "me@sferadev.com",
         "website": "https://www.sferadev.com",
         "social": [
             {
@@ -85,6 +85,12 @@
     "portfolio": {
         "projects": [
             {
+                "title": "Xata TypeScript SDK",
+                "category": "Official client and ORM for Xata database service",
+                "image": "https://avatars.githubusercontent.com/u/74420131?s=200&v=4",
+                "url": "https://github.com/xataio/client-ts"
+            },
+            {
                 "title": "DHIS2: MDSync (HISP SA and WHO)",
                 "category": "DHIS2 application for synchronizing data and metadata.",
                 "image": "https://github.com/EyeSeeTea/metadata-synchronization/blob/development/icon.png?raw=true",
@@ -101,12 +107,6 @@
                 "category": "Guided learning tool used to build and follow tutorials.",
                 "image": "https://raw.githubusercontent.com/EyeSeeTea/training-app/development/icon.png",
                 "url": "https://github.com/EyeSeeTea/training-app"
-            },
-            {
-                "title": "Click-up time reporting tool (Toggl UI)",
-                "category": "A next.js webapp to report time to clickup with a toggl-like interface.",
-                "image": "https://avatars1.githubusercontent.com/u/2181866?s=460&v=4",
-                "url": "https://github.com/SferaDev/clickup-time-tracking"
             }
         ]
     }
