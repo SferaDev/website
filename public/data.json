@@ -3,7 +3,7 @@
         "name": "Alexis Rico",
         "description": "Always building some TypeScript magic",
         "image": "images/profile.png",
-        "bio": "Work experience as Node.js backend developer, React web applications, Android AOSP developer and anything TypeScript related. Currently working on building an awesome database service for serverless.",
+        "bio": "Work experience in building TypeScript libraries with complex types, modern React web applications, type-safe Node.js backend code, contributions to the Android Open Source Project (AOSP) and Paranoid Android (AOSPA). Currently working at Xata, building the frontend of an awesome database service that targets serverless and our official SDK in TypeScript.",
         "email": "me@sferadev.com",
         "website": "https://www.sferadev.com",
         "social": [
