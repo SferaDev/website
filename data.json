@@ -1,0 +1,113 @@
+{
+    "overview": {
+        "name": "Alexis Rico",
+        "description": "Always building some TypeScript magic",
+        "image": "images/profile.png",
+        "bio": "Work experience in building TypeScript libraries with complex types, modern React web applications, type-safe Node.js backend code, contributions to the Android Open Source Project (AOSP) and Paranoid Android (AOSPA). Currently working at Xata, building the frontend of an awesome database service that targets serverless and our official SDK in TypeScript.",
+        "email": "me@sferadev.com",
+        "website": "https://www.sferadev.com",
+        "social": [
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/SferaDev",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/sferadev/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/SferaDev",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "experience": {
+        "education": [
+            {
+                "school": "Universitat Politècnica de Catalunya",
+                "title": "Bachelor's degree, Software Engineering",
+                "years": "2015 - 2019",
+                "description": ""
+            }
+        ],
+        "work": [
+            {
+                "company": "Xata",
+                "title": "Senior Software Engineer",
+                "years": "March 2022 - Present",
+                "description": ""
+            },
+            {
+                "company": "EyeSeeTea LTD",
+                "title": "Senior Software Engineer",
+                "years": "February 2019 - February 2022",
+                "description": ""
+            },
+            {
+                "company": "Universitat Politècnica de Catalunya",
+                "title": "Software Engineer",
+                "years": "February 2018 - June 2019",
+                "description": ""
+            },
+            {
+                "company": "Paranoid Android - AOSPA",
+                "title": "AOSP Developer",
+                "years": "November 2013 - October 2017",
+                "description": ""
+            }
+        ],
+        "skills": [
+            {
+                "name": "TypeScript",
+                "level": 95
+            },
+            {
+                "name": "Node.js",
+                "level": 75
+            },
+            {
+                "name": "ReactJS",
+                "level": 90
+            },
+            {
+                "name": "DHIS2",
+                "level": 85
+            },
+            {
+                "name": "Git",
+                "level": 90
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Xata TypeScript SDK",
+                "category": "Official client and ORM for Xata database service",
+                "image": "https://avatars.githubusercontent.com/u/74420131?s=200&v=4",
+                "url": "https://github.com/xataio/client-ts"
+            },
+            {
+                "title": "DHIS2: MDSync (HISP SA and WHO)",
+                "category": "DHIS2 application for synchronizing data and metadata.",
+                "image": "https://github.com/EyeSeeTea/metadata-synchronization/blob/development/icon.png?raw=true",
+                "url": "https://github.com/EyeSeeTea/metadata-synchronization"
+            },
+            {
+                "title": "DHIS2: Bulk-Load (WHO)",
+                "category": "DHIS2 application to build custom excel files that can be imported into DHIS2.",
+                "image": "https://github.com/EyeSeeTea/Bulk-Load/blob/development/public/img/icon.png?raw=true",
+                "url": "https://github.com/EyeSeeTea/Bulk-Load"
+            },
+            {
+                "title": "DHIS2: Training App (WHO)",
+                "category": "Guided learning tool used to build and follow tutorials.",
+                "image": "https://raw.githubusercontent.com/EyeSeeTea/training-app/development/icon.png",
+                "url": "https://github.com/EyeSeeTea/training-app"
+            }
+        ]
+    }
+}
